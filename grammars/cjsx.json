@@ -367,9 +367,6 @@
     }]
   }, {
     "captures": {
-      "3": {
-        "name": "entity.name.function.coffee"
-      },
       "2": {
         "name": "entity.name.function.coffee"
       },
